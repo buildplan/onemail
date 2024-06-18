@@ -1,8 +1,3 @@
-/*
-	Story by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 (function($) {
 
@@ -339,3 +334,6 @@
 						});
 
 })(jQuery);
+
+defer src='https://static.cloudflareinsights.com/beacon.min.js' 
+data-cf-beacon='{"token": "ab36426026614b1380673cce1a98a57e"}'
