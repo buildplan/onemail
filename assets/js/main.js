@@ -335,5 +335,3 @@
 
 })(jQuery);
 
-defer src='https://static.cloudflareinsights.com/beacon.min.js' 
-data-cf-beacon='{"token": "ab36426026614b1380673cce1a98a57e"}'
