@@ -1,1 +1,5 @@
-
+Contact: https://onemail.co.uk/#contact-form
+Contact: mailto:hello@onemail.co.uk
+Expires: 2025-08-29T14:00:00.000Z
+Preferred-Languages: en
+Canonical: https://onemail.co.uk/.well-known/security.txt
